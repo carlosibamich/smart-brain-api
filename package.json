@@ -4,7 +4,8 @@
   "description": "API for brain-smart app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
   },
   "author": "Carlos",
   "license": "ISC",

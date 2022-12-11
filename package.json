@@ -15,7 +15,7 @@
     "clarifai": "^2.9.1",
     "cors": "^2.8.5",
     "cryptiles": "^4.1.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.19.5",
     "mime": "^2.4.4",
     "node-modules": "^1.0.1",
